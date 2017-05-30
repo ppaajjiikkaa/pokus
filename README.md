@@ -1,1 +1,2 @@
-# pokus
+# Ahoj lidi
+# tohle je pokus
